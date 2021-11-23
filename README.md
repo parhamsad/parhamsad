@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @parhamsad
+- 👀 I’m interested in computer and everything related to it
+- 🌱 I’m currently learning python
+- 🤓 I'm a beginner and the reason of visiting github is to see how professionals work
